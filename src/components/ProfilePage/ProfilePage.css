@@ -1,0 +1,17 @@
+.profile__page{
+    margin-top: 50px;
+    display: flex;
+}
+.user__information{
+    margin-left: 20px;
+}
+.profile__page-image{
+    width: 120px;
+}
+.user__login{
+    font-size: 28px;
+}
+.user__purchases{
+    margin-top: 10px;
+    font-size: 20px;
+}

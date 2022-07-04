@@ -1,0 +1,23 @@
+.game-cards{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+main{
+    padding-bottom: 100px;
+}
+.games-search{
+    margin-top: 30px;
+}
+.games-sort__select{
+    margin-top: 30px;
+    text-align: right;
+}
+.nothing__cards{
+    font-size: 25px;
+    text-align: center;
+}
+.pagination__block{
+    margin-top: 50px;
+}

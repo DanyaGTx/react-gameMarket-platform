@@ -1,0 +1,39 @@
+.CardInCart{
+    margin-bottom: 50px;
+    display: flex;
+  
+}
+.CardInCart__image{
+    width: 180px;
+}
+.CardInCart__info{
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    
+    justify-content: space-between;
+}
+.CardInCart__description{
+    max-width: 600px;
+}
+.CardInCart__title{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.CardInCart__description{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.CardInCart__price{
+    font-size: 30px;    
+}
+.CardInCart__delete{
+    width: 50px;
+    cursor: pointer;
+    transform: translateY(70px);
+}
+.CardInCart__price{
+    margin-top: 20px;
+    color: green;
+}

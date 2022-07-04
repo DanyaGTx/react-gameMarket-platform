@@ -1,0 +1,11 @@
+.footer{
+    background-color: #171a21;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.footer__title{
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+}

@@ -1,0 +1,68 @@
+.cartPopUp__block{
+
+}
+.cartPopUp__block-products{
+    padding: 10px 10px;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 300px;
+    min-height: 50px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.cartPopUp__image-block{
+    position: relative;
+
+}
+.cartPopUp__image-amountProducts{
+    position: absolute;
+    right: 0px;
+    top: 25%;
+    left: 10%;
+    text-align: center;
+
+    border-radius: 50%;
+}
+
+.cartPopUp__image-amountProducts{
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+}
+.cartPopUp__image-block:hover{
+    cursor: pointer;
+}
+.cart__text{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+}
+
+.modal__close{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 1px 12px 5px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.cartPopUp__totalPrice{
+    font-size: 20px;
+    color: black;
+
+}
+.cart__button{
+    margin-top: 20px;
+    border: 1px solid rgb(0, 170, 255);
+    padding: 10px;
+    transition: .5s background;
+}
+.cart__button:hover{
+    background-color: aqua;
+}

@@ -1,0 +1,22 @@
+.gameInLibrary{
+    display: flex;
+    margin-bottom: 30px;
+}
+.game-image{
+    width: 100px;
+}
+.game-title{
+    font-size: 25px;
+}
+.game-information{
+    margin-left: 20px;
+}
+.game-play{
+    margin-top: 20px;
+    padding: 10px 30px;
+    background-color: rgb(12, 219, 12);
+}
+.game-lastStart{
+    margin-top: 10px;
+    font-size: 15px;
+}

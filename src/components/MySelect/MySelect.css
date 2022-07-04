@@ -1,0 +1,8 @@
+.sort-games__select{
+    padding: 5px 10px;
+    background-color: transparent;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}

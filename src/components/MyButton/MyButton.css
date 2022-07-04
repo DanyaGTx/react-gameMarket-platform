@@ -1,0 +1,9 @@
+.MyButton{
+    padding: 10px 30px;
+    background: black;
+    color: white;
+    transition: color .3s;
+}
+.MyButton:hover{
+    color: rgb(255, 187, 0);
+}

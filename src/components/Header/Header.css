@@ -1,0 +1,49 @@
+.header{
+    background-color: #171a21;
+    color: #b8b6b4;
+    height: 120px;
+    padding-top: 10px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.header__menu-list li{
+    cursor: pointer;
+}
+.header__logo-text{
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 35px;
+    margin-left: 20px;
+}
+.header__logo-img{
+    width: 100px;
+}
+.header__menu-list{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.form-button{
+    background: none;
+    color: #b8b6b4;
+    margin-right: 20px;
+}
+a{
+    color: #b8b6b4;
+    transition: color .3s;
+}
+a:hover{
+    color: #cfbca8;
+}
+a.active{
+   color: #e0b587;
+}

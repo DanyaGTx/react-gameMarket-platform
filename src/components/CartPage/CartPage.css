@@ -1,0 +1,21 @@
+.cart__page{
+    margin-top: 20px;
+}
+.nothing__inCart{
+    text-align: center;
+    font-size: 30px;   
+}
+.cart__page-submitPurchases{
+    padding-top: 30px;
+    text-align: center;
+}
+.submitPurchases__button{
+    background: transparent;
+    padding: 20px 80px;
+    border: 1px solid grey;
+    transition: .5s background;
+    font-size: 20px;
+}
+.submitPurchases__button:hover{
+    background-color: rgb(0, 191, 255);
+}

@@ -1,0 +1,29 @@
+.search__block{
+    position: relative;
+}
+.search-input{
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 18px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background: transparent;
+    
+}
+.search-input__ico{
+    width: 30px;
+    position: absolute;
+    right: 20px;
+    top: 6px;
+    pointer-events: none; 
+    opacity: 0.9;
+}
+.search-input__reset{
+    position: absolute;
+    font-size: 28px;
+    right: 70px;
+    top: 7px;
+    font-weight: 700;
+    cursor: pointer;
+    
+}
